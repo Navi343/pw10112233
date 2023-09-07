@@ -1,0 +1,11 @@
+commit 98188c7277ac93648a78a72e5fddfcb3cb09b861
+Author: NancyLlamas <18170371@itculiacan.edu.mx>
+Date:   Thu Sep 7 10:41:00 2023 -0700
+
+    Encabezado y titulo
+
+commit e674802ead96ef596400cf3b660819cf10c86714
+Author: NancyLlamas <18170371@itculiacan.edu.mx>
+Date:   Thu Sep 7 10:32:28 2023 -0700
+
+    Archivos iniciales de la clase
