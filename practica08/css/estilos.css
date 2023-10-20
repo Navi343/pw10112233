@@ -1,0 +1,73 @@
+body{
+    border: 1px solid red;
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+    background-color: lightgray;
+}
+header{
+    text-align: center;
+    padding-top: 50px ;
+}
+hr{
+    margin-top: 30px;
+}
+
+#Sec01 {
+    text-align: center;
+}
+#Sec01 ul li{
+    list-style: none;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 20px;
+    padding-right: 30px;
+}
+#Sec01Art{
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: left;
+}
+#Sec02Art02{
+    border: solid red 1px;
+    width: 45%;
+    display: inline-block;
+    margin-left: 20px;
+}
+#ArtCube{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    width: 40%;
+    display: inline-block;
+    padding: 20px 30px;
+    vertical-align: top;
+    text-align: center;
+    border: solid white 10px;
+}
+#ArtCube:nth-child(1){
+    background-color:black;
+}
+#ArtCube:nth-child(2){
+    padding-bottom: 72px;
+    background-color: cyan;
+}
+
+.letraBlanca{
+    color: white;
+}
+.letraGrande{
+    font-size: 5em;
+}
+.letraMediaGrande{
+    font-size: 4em;
+}
+.letraRoja{
+    color: red;
+}
+.subrayar{
+    border-bottom: solid white 2px;
+}
+.nito{
+    font-weight: bold;
+}
