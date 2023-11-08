@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>document</title>
 </head>
 <body>
-    <button onclick="apirandomuser();">
+    <label for="cantidad">Cantidad de personas aleatorias</label>
+    <input type="number" id="cantidad">
+    <button onclick="apiradomuser();">
         Randon User
     </button>
     <p></p>
@@ -16,6 +18,9 @@
         <span id="nombre"></span> <br>
         <span id="telefono"></span>
     </article>
+    <p></p>
+    <button onclick="anterior()"> <--Anterior</button>
+    <button onclick="siguiente()">Siguiente-->  </button>
     <script src="randomuser.js"></script>
 </body>
 </html>
